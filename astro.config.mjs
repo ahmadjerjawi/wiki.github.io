@@ -3,8 +3,8 @@ import starlight from '@astrojs/starlight';
 
 
 export default defineConfig({
-  site: 'https://ahmadjerjawi.github.io',
-  base: '/wiki.github.io',
+  site: 'https://ahmadjerjawi.github.io/wiki.github.io',
+  base: '',
 })
 
 
